@@ -19,7 +19,7 @@
   --border-strong: #cbd5e1;
 
   /* Try changing --accent to #7c3aed (purple) or #059669 (emerald)! */
-  --accent: #059669;
+  --accent: rgb(239, 74, 14);
   --accent-hover: #047857;
   --accent-soft: rgba(5, 150, 105, 0.12);
   --accent-contrast: #ffffff;
